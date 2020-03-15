@@ -1,0 +1,13 @@
+header{
+    float: left;
+    padding: 1rem 1rem 0 0;
+}
+
+header a :hover{
+color: gray;
+text-decoration: underline;
+}
+
+.nav-link{
+    padding:0 1rem 0 0;
+}
